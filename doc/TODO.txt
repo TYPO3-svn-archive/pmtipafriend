@@ -1,0 +1,5 @@
+Todo:
+- possibility to send the mail to multiple recipients
+
+Manual:
+- more detailed

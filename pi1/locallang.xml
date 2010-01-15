@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_pmtipafriend_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="mailFormLinkText">Tip a Friend</label>
+			<label index="labelNameRecipient">Name of the Recipient</label>
+			<label index="labelEmailRecipient">E-Mail of the Recipient</label>
+			<label index="labelNameSender">Name of the Sender</label>
+			<label index="labelEmailSender">E-Mail of the Sender</label>
+			<label index="labelComment">Comment</label>
+			<label index="labelCaptcha">Verification Code</label>
+			<label index="labelSubmit">Send</label>
+			<label index="errorEmailSender">Please enter your email address.</label>
+			<label index="errorEmailRecipient">Please enter a correct email address for recipient.</label>
+			<label index="errorCaptcha">Please enter the right security code.</label>
+			<label index="errorUrl">Error: The given url could not be found!</label>
+			<label index="mailSent">Your mail was sent.</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="mailFormLinkText">Seite weiterempfehlen</label>
+			<label index="labelNameRecipient">Name des Empfängers</label>
+			<label index="labelEmailRecipient">E-Mail des Empfängers</label>
+			<label index="labelNameSender">Name des Absenders</label>
+			<label index="labelEmailSender">E-Mail des Absenders</label>
+			<label index="labelComment">Kommentar</label>
+			<label index="labelCaptcha">Sicherheitscode</label>
+			<label index="labelSubmit">Abschicken</label>
+			<label index="errorEmailSender">Keine gültige Absender-Adresse.</label>
+			<label index="errorEmailRecipient">Keine gültige Empfänger-Adresse.</label>
+			<label index="errorCaptcha">Bitte geben Sie den richtigen Sicherheitscode ein.</label>
+			<label index="errorUrl">Fehler: Die angegebene Adresse konnte nicht gefunden werden!</label>
+			<label index="mailSent">Ihre E-Mail wurde versandt.</label>
+		</languageKey>
+    <languageKey index="fr" type="array">
+      <label index="mailFormLinkText">Envoyer à un ami</label>
+      <label index="labelNameRecipient">Nom du destinataire</label>
+      <label index="labelEmailRecipient">Email du destinataire</label>
+      <label index="labelNameSender">Nom de l'expéditeur</label>
+      <label index="labelEmailSender">Email de l'expéditeur</label>
+      <label index="labelComment">Commentaire</label>
+      <label index="labelCaptcha">Code de vérification</label>
+      <label index="labelSubmit">envoyer</label>
+    </languageKey>
+	</data>
+</T3locallang>

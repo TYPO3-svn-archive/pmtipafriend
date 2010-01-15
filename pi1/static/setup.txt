@@ -1,0 +1,4 @@
+plugin.tx_pmtipafriend_pi1 {
+	templateFile = EXT:pmtipafriend/pi1/template_tip-a-friend.html
+	mailFormPID =
+}

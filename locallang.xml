@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'pmtipafriend'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Tip a friend</label>
+			<label index="pi1_plus_wiz_description">Adds the Tip a friend Plugin</label>
+			<label index="pi1_flexform.display_type">Display Mode</label>
+			<label index="pi1_flexform.display_type.I.0">Mailform</label>
+			<label index="pi1_flexform.display_type.I.1">Link to form</label>
+			<label index="pi1_flexform.template_file">Template File</label>
+			<label index="pi1_flexform.mailFormPID">Page with Mailform</label>
+			<label index="pi1_flexform.mailText">Mailtext</label>
+			<label index="pi1_flexform.allowedDomains">Allowed Domains</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Seite weiterempfehlen</label>
+			<label index="pi1_plus_wiz_description">Zeigt das Seite weiterempfehlen Plugin an</label>
+			<label index="pi1_flexform.display_type">Anzeige Modus</label>
+			<label index="pi1_flexform.display_type.I.0">Mailformular</label>
+			<label index="pi1_flexform.display_type.I.1">Link zum Formular</label>
+			<label index="pi1_flexform.template_file">Template Datei</label>
+			<label index="pi1_flexform.mailFormPID">Seite mit Mailform</label>
+			<label index="pi1_flexform.mailText">Anrede der Mail</label>
+			<label index="pi1_flexform.allowedDomains">Erlaubte Domains</label>
+		</languageKey>
+	</data>
+</T3locallang>
